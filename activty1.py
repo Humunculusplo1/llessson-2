@@ -1,0 +1,5 @@
+print ('welcom to pyhton')
+print (45738908678756891798654789256789564767865347863457864578578642)
+print ('the sum of 9+9',9+9)
+print ('ahsdjhasfhoadsfhoufau90hwhuohszufhojAEFSiophgodgosapGTH',end='$$$$$$$.🔥🔥🔥🔥')
+print ('hello world ')
